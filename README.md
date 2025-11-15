@@ -43,6 +43,10 @@
 ## VI - Aperçu du Reporting
 
 &nbsp;&nbsp;&nbsp;&nbsp;**A) AIR DETAILS**  
+
+<img width="783" height="389" alt="image" src="https://github.com/user-attachments/assets/8c1b7598-9525-4070-a8a4-5b679dbd3345" />
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;**B) TRAIN DETAILS**  
 &nbsp;&nbsp;&nbsp;&nbsp;**C) CAR DETAILS**  
 &nbsp;&nbsp;&nbsp;&nbsp;**D) HOTEL DETAILS**  
