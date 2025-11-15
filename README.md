@@ -1,6 +1,6 @@
 # Data Analyst – Reporting & Performance Achats / RSE sous Power BI | Crédit Agricole SA
 
-## I - Contexte & Enjeux :
+## I - Contexte & Enjeux
 
   Au sein de **la Direction Achats Groupe du Crédit Agricole**, j’ai intégré une équipe chargée du **pilotage des déplacements professionnels des collaborateurs**.
   L’objectif principal était **d’optimiser le budget voyages et de réduire l’empreinte carbone associée**, en ajustant les politiques de déplacement et en améliorant la              performance achats.
@@ -8,7 +8,7 @@
   L’un des défis majeurs résidait dans **la dispersion et l’hétérogénéité des données**, provenant de multiples sources (agences de voyage, hôtels, outil de reservation…), **sans    infrastructure centralisée pour les stocker ni les analyser efficacement**.
 
 
-## II - Solution proposée :
+## II - Solution Proposée 
 
   - Centralisation des données dans un répertoire structuré.
   - Connexion aux données via Power Query et application des traitements ETL.
@@ -20,12 +20,34 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Les leviers d’optimisation**
 
 
-## III - Compétences techniques mobilisées
+## III - Compétences Techniques Mobilisées
 
-  **Power BI** : Power Query, M, DAX, Data modeling, KPI  
-  **Excel** : structuration et vérification des fichiers sources  
-  **Data cleaning** et normalisation des formats  
-  **Visual Design** : construction de reporting ergonomiques et orientés décision métier
+  **Power BI** : Power Query, M, DAX, Data modeling, KPI.  
+  **Excel** : structuration et vérification des fichiers sources.  
+  **Data cleaning** et normalisation des formats.  
+  **Visual Design** : Construction de reportings orientés décisionnel métier.
+
+
+## IV - Défis Rencontrés
+
+**Harmonisation de formats** de données provenant de différents prestataires.  
+**Détection et correction des incohérences** (doublons, champs manquants, erreurs de format).  
+**Mise en place de règles de qualité** pour fiabiliser les indicateurs.
+
+
+## V - Résultats Clés
+&nbsp;&nbsp;&nbsp;&nbsp;1.Identification des causes d’augmentation de l’empreinte carbone et ajustement des politiques de voyage en conséquence.  
+&nbsp;&nbsp;&nbsp;&nbsp;2.Meilleure préparation du budget annuel grâce à une visibilité accrue sur les dépenses et les émissions.
+
+
+## VI - Aperçu du Reporting
+
+&nbsp;&nbsp;&nbsp;&nbsp;**A) AIR DETAILS**  
+&nbsp;&nbsp;&nbsp;&nbsp;**B) TRAIN DETAILS**  
+&nbsp;&nbsp;&nbsp;&nbsp;**C) CAR DETAILS**  
+&nbsp;&nbsp;&nbsp;&nbsp;**D) HOTEL DETAILS**  
+&nbsp;&nbsp;&nbsp;&nbsp;**E) CO2 EMISSION**
+
 
 
 
