@@ -60,7 +60,7 @@
 
 <img width="731" height="404" alt="image" src="https://github.com/user-attachments/assets/f54e5644-0ef9-406f-8600-a99725f743d1" />  
 
-&nbsp;&nbsp;&nbsp;&nbsp;**E) CO2 EMISSION**
+&nbsp;&nbsp;&nbsp;&nbsp;**E) CO₂ EMISSION**
 
 <img width="820" height="540" alt="image" src="https://github.com/user-attachments/assets/5fdb378a-8615-47d0-ad98-f5cd37a4147c" />
 
