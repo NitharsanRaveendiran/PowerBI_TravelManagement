@@ -44,13 +44,26 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**A) AIR DETAILS**  
 
-<img width="783" height="389" alt="image" src="https://github.com/user-attachments/assets/8c1b7598-9525-4070-a8a4-5b679dbd3345" />
+<img width="783" height="389" alt="image" src="https://github.com/user-attachments/assets/8c1b7598-9525-4070-a8a4-5b679dbd3345" />  
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**B) TRAIN DETAILS**  
+
+<img width="825" height="420" alt="image" src="https://github.com/user-attachments/assets/0abc297a-993b-4e71-ab8c-5f7675472691" />
+  
+
 &nbsp;&nbsp;&nbsp;&nbsp;**C) CAR DETAILS**  
+
+<img width="825" height="420" alt="image" src="https://github.com/user-attachments/assets/cab5684c-bb2b-4521-bdc5-7a818abc0252" />  
+
 &nbsp;&nbsp;&nbsp;&nbsp;**D) HOTEL DETAILS**  
+
+<img width="731" height="404" alt="image" src="https://github.com/user-attachments/assets/f54e5644-0ef9-406f-8600-a99725f743d1" />  
+
 &nbsp;&nbsp;&nbsp;&nbsp;**E) CO2 EMISSION**
+
+<img width="820" height="540" alt="image" src="https://github.com/user-attachments/assets/5fdb378a-8615-47d0-ad98-f5cd37a4147c" />
+
 
 
 
