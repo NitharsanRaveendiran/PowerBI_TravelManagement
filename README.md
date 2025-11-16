@@ -62,9 +62,24 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**E) CO₂ EMISSION**
 
-<img width="820" height="540" alt="image" src="https://github.com/user-attachments/assets/5fdb378a-8615-47d0-ad98-f5cd37a4147c" />
+<img width="820" height="540" alt="image" src="https://github.com/user-attachments/assets/5fdb378a-8615-47d0-ad98-f5cd37a4147c" />  
+
+&nbsp;&nbsp;&nbsp;&nbsp;**F) NOTE DE FRAIS**  
+
+<img width="796" height="486" alt="image" src="https://github.com/user-attachments/assets/5eae8c28-8092-41d7-9ef5-ea33661c14ab" />  
 
 
+<img width="872" height="497" alt="image" src="https://github.com/user-attachments/assets/17cdfd51-5e4d-4d4d-a112-de2c1d9a0282" />
+
+
+# Note Importante concernant les captures d'écran  
+
+**Les captures présentées dans ce dépôt ont été réalisées avant la finalisation complète du reporting.
+Elles peuvent donc présenter :**  
+- des titres non uniformisés (anglais / français mélangés),  
+- des éléments graphiques en cours d’ajustement
+- des valeurs volontairement masquées.  
+**L’objectif est uniquement d’illustrer la structure générale du reporting, tout en respectant la confidentialité des données**
 
 
 
